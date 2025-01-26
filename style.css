@@ -145,7 +145,7 @@ a {
 
     #check:checked~.sidebar_menu .btn_two i {
         opacity: 1;
-        top: 54px;
+        top: 10px;
         font-size: 25px;
     }
 
