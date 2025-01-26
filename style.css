@@ -143,11 +143,11 @@ a {
         bottom: 60px;
     }
 
-    #check:checked~.sidebar_menu .btn_two i {
+/*     #check:checked~.sidebar_menu .btn_two i {
         opacity: 1;
         top: 10px;
         font-size: 25px;
-    }
+    } */
 
 
     .sidebar_menu .menu li {
